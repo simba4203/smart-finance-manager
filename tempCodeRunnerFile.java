@@ -1,0 +1,1 @@
+writer.write(accNo + "," + user.getName() + "," + user.getPin() + "," + user.getBalance());
